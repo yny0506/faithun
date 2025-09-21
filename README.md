@@ -7,7 +7,7 @@ The paper is available at the following link: [LINK](https://arxiv.org/abs/2502.
 This repository provides the FaithUn dataset along with detailed information on dataset splits.
   
   
-## The dataset file (FaithUnBench.json)
+## The dataset file (FaithUn_Dataset.json)
 
 "FaithUnBench" is a new benchmark first introduced in our paper "FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge."
 
